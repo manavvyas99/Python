@@ -1,4 +1,3 @@
-# Python_Module_1
 Name: Manav Vyas (mvyas1)
 
 Module Info: Module 1 Assignment: Hello World! Due on 09/04/2022 at 11:59 EST
